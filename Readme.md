@@ -19,7 +19,7 @@ Because of severity of insurance fraud, 78% of the consumers have expressed thei
 
 Insurance fraud incurs losses to insurance company. Hence, in this project, I am tasked to develop a model to help auto insurance company to save cost by predicting whether insurance claims is fraudulent or not.
 
-The model is expected to predict if insurance claim is fraudulent based on unseen data, accurately. Metrics used to assess model's prediction are both F1 score and area under curve of the ROC (ROC AUC). These metrics will be compared against a baseline model fraud prediction of F1 score and ROC AUC at 40% (rounded to 1 decimal place) and above 50% respectively. 
+The model is expected to predict if insurance claim is fraudulent based on unseen data, accurately. Metrics used to assess model's prediction are both F1 score and area under curve of the ROC (ROC AUC). These metrics will be compared against a baseline model fraud prediction of F1 score and ROC AUC at 40% and above 50% respectively. 
 
 
 ## Datasets
