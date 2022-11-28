@@ -43,7 +43,7 @@ The datasets used for this analysis are obtained from [Kaggle](https://www.kaggl
 ### Fraud Claim Analysis
 Fraud analysis has confirmed and verified that model's recommended features indeed have significant positive impacts in detecting fraud as the features have higher fraud ratio compared to other features.
 
-Summary of fraud reported by claim count, overall claim fraud ratio and fraud ratio by insured's hobbies is this [Tableau Dashboard](https://public.tableau.com/app/profile/gerald.chin/viz/fraud_detection_on_auto_insurance_claim/fraud_detection_on_auto_insurance_claim_overview_of_fraud).
+Summary of fraud reported by claim count, overall fraud ratio and insured's hobbies fraud ratio and claim amount is in this [Tableau Dashboard](https://public.tableau.com/app/profile/gerald.chin/viz/fraud_detection_on_auto_insurance_claim/fraud_detection_on_auto_insurance_claim_overview_of_fraud).
 
 ### Conclusion
 Gaussian Naive Bayes is chosen as the final model as Gaussian Naive Bayes <br>
